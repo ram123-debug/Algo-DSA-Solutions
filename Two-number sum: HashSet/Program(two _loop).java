@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Program(two_loops) {
+class Program(two_loop) {
   public static int[] twoNumberSum(int[] array, int targetSum) {
     // Write your code here.
     int[] arr=new int [2];
